@@ -11,5 +11,8 @@ table, th, td {
     color: blue;
  }
  .container_input{
-    border: 2px solid blue;
+      border: 2px solid black;
+    
+  padding: 5px;
+  font-size: 16px;
  }
