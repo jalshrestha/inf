@@ -10,3 +10,6 @@ table, th, td {
  b{
     color: blue;
  }
+ .container_input{
+    border: 2px solid blue;
+ }
